@@ -15,7 +15,6 @@ mongo1.php - query 1
 mongo2.php - query 2
 mongo3.php - query 3
 
-
 Contributions:
 MySQL:
 Lyazii : q1.php, q2.php, index.php
